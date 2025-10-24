@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\文件\program\program-251113_1\Homework 251024-1\Homework 251024-1\main.cpp(7,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      D:\文件\program\program-251113_1\Homework 251024-1\Homework 251024-1\main.cpp(7,10):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      D:\文件\program\program-251113_1\Homework 251024-1\Homework 251024-1\main.cpp(7,10):
+      缺失的可变参数 2 为格式字符串“%c”所需
+      D:\文件\program\program-251113_1\Homework 251024-1\Homework 251024-1\main.cpp(7,10):
+      此参数用作缓冲区大小
+  
+  Homework 251024-1.vcxproj -> D:\文件\program\program-251113_1\Homework 251024-1\x64\Debug\Homework 251024-1.exe
